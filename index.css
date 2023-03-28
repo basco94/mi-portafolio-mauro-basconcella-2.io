@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+}
+.foto{
+    width: 20%;
+    border: 2px solid lightgray;
+    
+}
+.contenedor-foto{
+    display: block;
+    text-align: center;
+    align-items: center;
+}
+.contenedor-titulo {
+    text-align: center;
+    background-color: red;
+}
+.titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding-left: 20px;
+    
+}
+.contenedor-subtitulo{
+    text-align: center;
+    
+}
+.subtitulo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+li{
+    font-size: 30px;
+}
+.datos-personales{
+    border: 2px solid red;
+}
+.experiencia-profesional{
+ border: 2px solid red;    
+}
+.datitos{
+border: 2px solid red;
+}
+.objetivos-personales{
+        border: 2px solid red;
+}
+.personal{
+    font-size: 30px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.exp{
+    
+    font-size: 30px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.date{
+    
+    font-size: 30px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.objetivos-futuros{
+    
+    font-size: 30px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
